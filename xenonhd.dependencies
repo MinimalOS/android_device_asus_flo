@@ -3,7 +3,7 @@
    "remote": "cm",
    "repository": "android_kernel_google_msm",
    "target_path": "kernel/google/msm",
-	"revision": "lollipop"
+	"revision": "cm-12.0"
 	
  }
 ]
