@@ -3,12 +3,12 @@
    "remote": "cm",
    "repository": "android_kernel_google_msm",
    "target_path": "kernel/google/msm",
-	"revision": "cm-12.0"
+	"revision": "cm-12.1"
  },
  { 
  	"remote": "th",
     "repository": "android_vendor_asus",
     "target_path": "vendor/asus",
-    "revision": "lollipop"
+    "revision": "lp-mr1"
   }
 ]
