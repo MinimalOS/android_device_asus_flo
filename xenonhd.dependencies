@@ -10,5 +10,11 @@
     "repository": "android_vendor_asus",
     "target_path": "vendor/asus",
     "revision": "lp-mr1"
+  },
+  { 
+ 	"remote": "aosp",
+    "repository": "device/asus/flo-kernel",
+    "target_path": "device/asus",
+    "revision": "refs/tags/android-5.1.1_r4"
   }
 ]
